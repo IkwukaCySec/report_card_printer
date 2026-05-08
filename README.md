@@ -20,4 +20,5 @@ This project demonstrates practical steps taken to achieve mastery in Python dat
 Facing any challenge? Please reach out to me with my email address: 
 **[Email Me](ikwuka.cysec@gmail.com)**
 
+![Program Output](images/program_output.png)
 ---
